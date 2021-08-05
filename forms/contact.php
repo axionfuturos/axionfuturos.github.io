@@ -28,7 +28,7 @@
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
     'username' => 'axionfuturos@gmail.com',
-    'password' => 'Panama.7421',
+    'password' => 'eycqfkyqzzvmling',
     'port' => '587'
   );
  
